@@ -1,12 +1,4 @@
-
-# VeraCrypt-Full-Disk-Encryption-Workflow
-A simple, visual walkthrough of how I encrypted a drive using VeraCrypt, managed the keys, and mounted the secure volume. This project shows my understanding of data‑at‑rest protection and basic encryption workflows.
-
-
----
-
-##  Whiteboard Sketch: Encryption Flow
-
+## 🖼️ Whiteboard Sketch (Temporary ASCII Version)
 
 [ Your Data ]
       |
@@ -22,16 +14,21 @@ A simple, visual walkthrough of how I encrypted a drive using VeraCrypt, managed
       v
 [ Mounted Secure Drive 📁 ]
 
-![VeraCrypt Whiteboard Sketch](images/veracrypt-whiteboard-flow.png)
-
 ---
 
-##  Why I Made This
+## 📝 What This Flow Means
 
-I wanted to show how encryption protects data at rest in a simple, visual way. This project helped me understand how VeraCrypt handles encryption, keyfiles, and secure volume mounting.
+**[ Your Data ]**  
+Your normal readable files.
 
----
+**VeraCrypt Encrypts It**  
+VeraCrypt scrambles your files using strong encryption.
 
-##  How I Created It
+**[ Encrypted Volume 🔒 ]**  
+Your data is now locked inside an encrypted container.
 
-I encrypted a drive using VeraCrypt, documented each step, and turned the workflow into a whiteboard-style sketch. The goal was to make encryption easy to understand at a glance.
+**Unlock with Password + Keyfile 🔑**  
+You use your password (and optional keyfile) to unlock the container.
+
+**[ Mounted Secure Drive 📁 ]**  
+Once unlocked, VeraCrypt mounts it like a normal drive so you can use your files safely.
