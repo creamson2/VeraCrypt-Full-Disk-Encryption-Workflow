@@ -5,6 +5,7 @@ A simple, visual walkthrough of how I encrypted a drive using VeraCrypt, managed
 ---
 
 ##  Whiteboard Sketch: Encryption Flow
+![VeraCrypt Whiteboard Sketch](images/veracrypt-whiteboard-flow.png)
 
 
 
