@@ -1,3 +1,4 @@
+
 # VeraCrypt-Full-Disk-Encryption-Workflow
 A simple, visual walkthrough of how I encrypted a drive using VeraCrypt, managed the keys, and mounted the secure volume. This project shows my understanding of data‑at‑rest protection and basic encryption workflows.
 
