@@ -6,8 +6,6 @@ A simple, visual walkthrough of how I encrypted a drive using VeraCrypt, managed
 ---
 
 ##  Whiteboard Sketch: Encryption Flow
-![VeraCrypt Whiteboard Sketch](images/veracrypt-whiteboard-flow.png)
-
 
 
 [ Your Data ]
@@ -24,6 +22,7 @@ A simple, visual walkthrough of how I encrypted a drive using VeraCrypt, managed
       v
 [ Mounted Secure Drive 📁 ]
 
+![VeraCrypt Whiteboard Sketch](images/veracrypt-whiteboard-flow.png)
 
 ---
 
