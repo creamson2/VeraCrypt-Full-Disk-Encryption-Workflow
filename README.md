@@ -16,10 +16,19 @@
 
 ---
 
-veracrypt-whiteboard-flow.png
+
 
 
 ##  What This Flow Means
+
+
+
+
+
+
+
+
+
 
 **[ Your Data ]**  
 Your normal readable files.
