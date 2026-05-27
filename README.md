@@ -1,4 +1,4 @@
-## 🖼️ Whiteboard Sketch (Temporary ASCII Version)
+##  Whiteboard Sketch (Temporary ASCII Version)
 
 [ Your Data ]
       |
@@ -33,7 +33,7 @@ You use your password (and optional keyfile) to unlock the container.
 **[ Mounted Secure Drive 📁 ]**  
 Once unlocked, VeraCrypt mounts it like a normal drive so you can use your files safely.
 
-## 📝 What This Flow Means (Simple Explanation)
+##  What This Flow Means (Simple Explanation)
 
 **[ Your Data ]**  
 This is your normal readable files — documents, photos, anything.
